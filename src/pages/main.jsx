@@ -5,6 +5,8 @@ import Todos from '../components/todos'
 
 const Main = () => {
 
+  const hello=1
+  //testing git push
   const [inputValue,setInputValue]=useState("");
   const [todos,setTodos]=useState([])
 
